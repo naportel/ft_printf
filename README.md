@@ -1,2 +1,10 @@
 # ft_printf
-42's project for Milestone 01 
+
+ft_printf is a recreation of C's function printf but with only the main utilities like:
+
+- Single char print
+- String print
+- Intenger print
+- Hexadecimal print
+
+- - -
